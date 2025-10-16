@@ -1,12 +1,14 @@
-## 42 Common Core Project Index
+# 42 School Projects
 
 👋 Welcome!
 
-This repo contains a curated index of all the Common Core projects I've completed as part of the 42 curriculum.
+This repository contains an index of all the projects I've completed as part of the 42 curriculum.
 
 Click on the badges below to access each individual project repository.
 
 You can find me on the 42 intranet under the username **elopez-u**.
+
+## Common Core
 
 <table>
   <thead>
