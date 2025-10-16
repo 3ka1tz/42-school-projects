@@ -9,7 +9,7 @@ My intranet username is elopez-u.
     <th><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft"/></a></th>
   </tr>
   <tr>
-    <th rowspan="3">Circle 2</th>
+    <th rowspan="4">Circle 2</th>
     <th>
       <tr>
         <th>Explore VMs (Virtual Machines) and learn to use a desktopless SO.</th>
@@ -26,7 +26,7 @@ My intranet username is elopez-u.
     </th>
   </tr>
   <tr>
-    <th rowspan="3">Circle 3</th>
+    <th rowspan="4">Circle 3</th>
     <tr>
       <th>Placeholder</th>
       <th><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png" alt="pipex"/></a></th>
