@@ -8,7 +8,12 @@ My intranet username is elopez-u.
     <th>Projects</th>
   </tr>
   <tr>
-    <td>[![libft](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png)](https://github.com/3ka1tz/libft)</td>
+    <td>
+  <a href="https://github.com/3ka1tz/libft">
+    <img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft" width="80" />
+  </a>
+</td>
+
     <td>[![cpp](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cppe.png)](https://github.com/3ka1tz/cpp)</td>
   </tr>
 </table>
