@@ -2,45 +2,49 @@
 
 My intranet username is elopez-u.
 
-<table>
-  <tr>
-    <th>Circle 1</th>
-    <th>Create your own library of some C programming standard functions.</th>
-    <th><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft"/></a></th>
-  </tr>
-  <tr>
-    <th rowspan="4">Circle 2</th>
-    <th>
-      <tr>
-        <th>Explore VMs (Virtual Machines) and learn to use a desktopless SO.</th>
-        <th><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png" alt="born2beroot"/></a></th>
-      </tr>
-      <tr>
-        <th>Placeholder</th>
-        <th><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png" alt="ft_printf"/></a></th>
-      </tr>
-      <tr>
-        <th>Placeholder</th>
-        <th><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png" alt="get_next_line"/></a></th>
-      </tr>
-    </th>
-  </tr>
-  <tr>
-    <th rowspan="4">Circle 3</th>
+<table border="1">
+  <thead>
     <tr>
-      <th>Placeholder</th>
-      <th><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png" alt="pipex"/></a></th>
+      <th>Circle</th>
+      <th>Description</th>
+      <th>Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Circle 1</td>
+      <td>Create your own library of some C programming standard functions.</td>
+      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft"/></a></td>
     </tr>
     <tr>
-      <th>Placeholder</th>
-      <th><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png" alt="push_swap"/></a></th>
+      <td rowspan="3">Circle 2</td>
+      <td>Explore VMs (Virtual Machines) and learn to use a desktopless SO.</td>
+      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png" alt="born2beroot"/></a></td>
     </tr>
     <tr>
-      <th>Placeholder</th>
-      <th><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png" alt="so_long"/></a></th>
+      <td>Placeholder</td>
+      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png" alt="ft_printf"/></a></td>
     </tr>
-  </tr>
+    <tr>
+      <td>Placeholder</td>
+      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png" alt="get_next_line"/></a></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Circle 3</td>
+      <td>Placeholder</td>
+      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png" alt="pipex"/></a></td>
+    </tr>
+    <tr>
+      <td>Placeholder</td>
+      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png" alt="push_swap"/></a></td>
+    </tr>
+    <tr>
+      <td>Placeholder</td>
+      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png" alt="so_long"/></a></td>
+    </tr>
+  </tbody>
 </table>
+
 
 All badges and covers were downloaded from https://github.com/ayogun/42-project-badges.
 
