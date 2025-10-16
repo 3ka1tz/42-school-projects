@@ -18,7 +18,6 @@ My intranet username is elopez-u.
       <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
     </tr>
     <tr><td colspan="3"><hr/></td></tr>
-
     <!-- Circle 2 -->
     <tr>
       <td rowspan="3"><strong>Circle 2</strong></td>
@@ -34,7 +33,6 @@ My intranet username is elopez-u.
       <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td>
     </tr>
     <tr><td colspan="3"><hr/></td></tr>
-
     <!-- Circle 3 -->
     <tr>
       <td rowspan="3"><strong>Circle 3</strong></td>
@@ -50,7 +48,6 @@ My intranet username is elopez-u.
       <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png"/></a></td>
     </tr>
     <tr><td colspan="3"><hr/></td></tr>
-
     <!-- Circle 4 -->
     <tr>
       <td rowspan="2"><strong>Circle 4</strong></td>
@@ -62,7 +59,6 @@ My intranet username is elopez-u.
       <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
     </tr>
     <tr><td colspan="3"><hr/></td></tr>
-
     <!-- Circle 5 -->
     <tr>
       <td rowspan="2"><strong>Circle 5</strong></td>
