@@ -13,14 +13,14 @@ My intranet username is elopez-u.
   <tbody>
     <!-- Circle 1 -->
     <tr>
-      <td><strong>Circle 1</strong></td>
+      <td>Circle 1</td>
       <td>Create your own library of some C programming standard functions.</td>
       <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
     </tr>
     <tr><td colspan="3"><hr/></td></tr>
     <!-- Circle 2 -->
     <tr>
-      <td rowspan="3"><strong>Circle 2</strong></td>
+      <td rowspan="3">Circle 2</td>
       <td>Explore VMs (Virtual Machines) and learn to use a desktopless SO.</td>
       <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png"/></a></td>
     </tr>
@@ -35,7 +35,7 @@ My intranet username is elopez-u.
     <tr><td colspan="3"><hr/></td></tr>
     <!-- Circle 3 -->
     <tr>
-      <td rowspan="3"><strong>Circle 3</strong></td>
+      <td rowspan="3">Circle 3</td>
       <td>Execute shell-like pipelines using fork and execve.</td>
       <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png"/></a></td>
     </tr>
@@ -50,7 +50,7 @@ My intranet username is elopez-u.
     <tr><td colspan="3"><hr/></td></tr>
     <!-- Circle 4 -->
     <tr>
-      <td rowspan="2"><strong>Circle 4</strong></td>
+      <td rowspan="2">Circle 4</td>
       <td>Build a fully functional shell with parsing, redirections, pipes, and environment handling.</td>
       <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
     </tr>
@@ -61,7 +61,7 @@ My intranet username is elopez-u.
     <tr><td colspan="3"><hr/></td></tr>
     <!-- Circle 5 -->
     <tr>
-      <td rowspan="2"><strong>Circle 5</strong></td>
+      <td rowspan="2">Circle 5</td>
       <td>Advanced shell implementation with job control, signal handling, and scripting features.</td>
       <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
     </tr>
