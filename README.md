@@ -8,18 +8,22 @@ My intranet username is elopez-u.
     <th>Projects</th>
   </tr>
   <tr>
-    <td>
-  <a href="https://github.com/3ka1tz/libft">
-    <img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft" width="80" />
-  </a>
-</td>
-
-    <td>[![cpp](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cppe.png)](https://github.com/3ka1tz/cpp)</td>
+    <td>Circle 1</td>
+    <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft"/></a></td>
+  </tr>
+  <tr>
+    <td colspan="2">Circle 2</td>
+    <tr><td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png" alt="born2beroot"/></a></td></tr>
+    <tr><td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png" alt="ft_printf"/></a></td></tr>
+    <tr><td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png" alt="get_next_line"/></a></td></tr>
+  </tr>
+  <tr>
+    <td>Circle 3</td>
+    <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png" alt="pipex"/></a></td>
+    <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png" alt="push_swap"/></a></td>
+    <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png" alt="so_long"/></a></td>
   </tr>
 </table>
-
-[![libft](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png)](https://github.com/3ka1tz/libft)
-[![cpp](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cppe.png)](https://github.com/3ka1tz/cpp)
 
 All badges and covers were downloaded from https://github.com/ayogun/42-project-badges.
 
