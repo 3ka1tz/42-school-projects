@@ -4,18 +4,16 @@ My intranet username is elopez-u.
 
 <table>
   <tr>
-    <th>Circles</th>
-    <th>Projects</th>
-  </tr>
-  <tr>
-    <td>Circle 1</td>
+    <th>Circle 1</th>
     <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft"/></a></td>
   </tr>
   <tr>
-    <td colspan="2">Circle 2</td>
-    <tr><td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png" alt="born2beroot"/></a></td></tr>
-    <tr><td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png" alt="ft_printf"/></a></td></tr>
-    <tr><td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png" alt="get_next_line"/></a></td></tr>
+    <th rowspan="3">Circle 2</th>
+    <td>
+      <tr><td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png" alt="born2beroot"/></a></td></tr>
+      <tr><td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png" alt="ft_printf"/></a></td></tr>
+      <tr><td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png" alt="get_next_line"/></a></td></tr>
+    </td>
   </tr>
   <tr>
     <td>Circle 3</td>
