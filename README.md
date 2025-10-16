@@ -13,7 +13,7 @@ You can find me on the 42 intranet under the username **elopez-u**.
 <table>
   <thead>
     <tr>
-      <th>Circle</th>
+      <th width="80">Circle</th>
       <th>Description</th>
       <th>Project</th>
     </tr>
