@@ -11,40 +11,70 @@ My intranet username is elopez-u.
     </tr>
   </thead>
   <tbody>
-    <tr border="10">
-      <td>Circle 1</td>
+    <!-- Circle 1 -->
+    <tr>
+      <td><strong>Circle 1</strong></td>
       <td>Create your own library of some C programming standard functions.</td>
-      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft"/></a></td>
+      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
     </tr>
+    <tr><td colspan="3"><hr/></td></tr>
+
+    <!-- Circle 2 -->
     <tr>
-      <td rowspan="3">Circle 2</td>
+      <td rowspan="3"><strong>Circle 2</strong></td>
       <td>Explore VMs (Virtual Machines) and learn to use a desktopless SO.</td>
-      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png" alt="born2beroot"/></a></td>
+      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png"/></a></td>
     </tr>
     <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png" alt="ft_printf"/></a></td>
+      <td>Implement a simplified version of the printf function in C.</td>
+      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png"/></a></td>
     </tr>
     <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png" alt="get_next_line"/></a></td>
+      <td>Read a file line by line using a custom buffer and file descriptor logic.</td>
+      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td>
+    </tr>
+    <tr><td colspan="3"><hr/></td></tr>
+
+    <!-- Circle 3 -->
+    <tr>
+      <td rowspan="3"><strong>Circle 3</strong></td>
+      <td>Execute shell-like pipelines using fork and execve.</td>
+      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png"/></a></td>
     </tr>
     <tr>
-      <td rowspan="3">Circle 3</td>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png" alt="pipex"/></a></td>
+      <td>Sort data using stacks with limited operations and optimize for performance.</td>
+      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png"/></a></td>
     </tr>
     <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png" alt="push_swap"/></a></td>
+      <td>Create a simple 2D game using the MiniLibX graphics library.</td>
+      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png"/></a></td>
+    </tr>
+    <tr><td colspan="3"><hr/></td></tr>
+
+    <!-- Circle 4 -->
+    <tr>
+      <td rowspan="2"><strong>Circle 4</strong></td>
+      <td>Build a fully functional shell with parsing, redirections, pipes, and environment handling.</td>
+      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
     </tr>
     <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png" alt="so_long"/></a></td>
+      <td>Simulate the Dining Philosophers problem using threads and mutexes.</td>
+      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
+    </tr>
+    <tr><td colspan="3"><hr/></td></tr>
+
+    <!-- Circle 5 -->
+    <tr>
+      <td rowspan="2"><strong>Circle 5</strong></td>
+      <td>Advanced shell implementation with job control, signal handling, and scripting features.</td>
+      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
+    </tr>
+    <tr>
+      <td>Extend concurrency concepts with semaphores and processes in the Philosophers problem.</td>
+      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
     </tr>
   </tbody>
 </table>
-
 
 All badges and covers were downloaded from https://github.com/ayogun/42-project-badges.
 
