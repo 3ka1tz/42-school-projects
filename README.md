@@ -2,7 +2,7 @@
 
 My intranet username is elopez-u.
 
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Circle</th>
@@ -11,7 +11,7 @@ My intranet username is elopez-u.
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr border="10">
       <td>Circle 1</td>
       <td>Create your own library of some C programming standard functions.</td>
       <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png" alt="libft"/></a></td>
