@@ -1,6 +1,12 @@
-## 42 School Projects
+## 42 Common Core Project Index
 
-My intranet username is elopez-u.
+👋 Welcome!
+
+This repo contains a curated index of all the Common Core projects I've completed as part of the 42 curriculum.
+
+Click on the badges below to access each individual project repository.
+
+You can find me on the 42 intranet under the username **elopez-u**.
 
 <table>
   <thead>
