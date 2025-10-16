@@ -2,6 +2,17 @@
 
 My intranet username is elopez-u.
 
+<table>
+  <tr>
+    <th>Circles</th>
+    <th>Projects</th>
+  </tr>
+  <tr>
+    <td>[![libft](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png)](https://github.com/3ka1tz/libft)</td>
+    <td>[![cpp](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cppe.png)](https://github.com/3ka1tz/cpp)</td>
+  </tr>
+</table>
+
 [![libft](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png)](https://github.com/3ka1tz/libft)
 [![cpp](https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cppe.png)](https://github.com/3ka1tz/cpp)
 
