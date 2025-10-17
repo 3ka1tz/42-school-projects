@@ -19,63 +19,60 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     </tr>
   </thead>
   <tbody>
-    <!-- Circle 1 -->
+    <!-- Milestone 1 -->
     <tr>
-      <td align="center">Milestone 1</td>
-      <td>Create your own library of some C programming standard functions.</td>
-      <td><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
+      <td style="text-align:center;">Milestone 1</td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
     </tr>
-    <tr><td colspan="3"><hr/></td></tr>
-    <!-- Circle 2 -->
+    <!-- Milestone 2 -->
     <tr>
-      <td align="center" rowspan="3">Milestone 2</td>
-      <td>Explore VMs (Virtual Machines) and learn to use a desktopless SO.</td>
-      <td><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png"/></a></td>
-    </tr>
-    <tr>
-      <td>Implement a simplified version of the printf function in C.</td>
-      <td><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png"/></a></td>
+      <td style="text-align:center;" rowspan="3">Milestone 2</td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png"/></a></td>
     </tr>
     <tr>
-      <td>Read a file line by line using a custom buffer and file descriptor logic.</td>
-      <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td>
-    </tr>
-    <tr><td colspan="3"><hr/></td></tr>
-    <!-- Circle 3 -->
-    <tr>
-      <td align="center" rowspan="3">Milestone 3</td>
-      <td>Execute shell-like pipelines using fork and execve.</td>
-      <td><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png"/></a></td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/ft_printf"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/ft_printfe.png"/></a></td>
     </tr>
     <tr>
-      <td>Sort data using stacks with limited operations and optimize for performance.</td>
-      <td><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png"/></a></td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td>
+    </tr>
+    <!-- Milestone 3 -->
+    <tr>
+      <td style="text-align:center;" rowspan="3">Milestone 3</td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png"/></a></td>
     </tr>
     <tr>
-      <td>Create a simple 2D game using the MiniLibX graphics library.</td>
-      <td><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png"/></a></td>
-    </tr>
-    <tr><td colspan="3"><hr/></td></tr>
-    <!-- Circle 4 -->
-    <tr>
-      <td align="center" rowspan="2">Milestone 4</td>
-      <td>Build a fully functional shell with parsing, redirections, pipes, and environment handling.</td>
-      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/push_swap"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/push_swape.png"/></a></td>
     </tr>
     <tr>
-      <td>Simulate the Dining Philosophers problem using threads and mutexes.</td>
-      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png"/></a></td>
     </tr>
-    <tr><td colspan="3"><hr/></td></tr>
-    <!-- Circle 5 -->
+    <tr><td style="text-align:center;" colspan="3"><hr/></td></tr>
+    <!-- Milestone 4 -->
     <tr>
-      <td align="center" rowspan="2">Milestone 5</td>
-      <td>Advanced shell implementation with job control, signal handling, and scripting features.</td>
-      <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
+      <td style="text-align:center;" rowspan="2">Milestone 4</td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
     </tr>
     <tr>
-      <td>Extend concurrency concepts with semaphores and processes in the Philosophers problem.</td>
-      <td><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
+    </tr>
+    <!-- Milestone 5 -->
+    <tr>
+      <td style="text-align:center;" rowspan="2">Milestone 5</td>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/net_practicee.png"/></a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cub3de.png"/></a></td>
     </tr>
   </tbody>
 </table>
