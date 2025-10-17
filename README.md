@@ -65,13 +65,33 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     </tr>
     <!-- Milestone 4 -->
     <tr>
-      <td style="text-align:center;" rowspan="2">Milestone 4</td>
+      <td style="text-align:center;" rowspan="7">Milestone 4</td>
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/netpracticee.png"/></a></td>
     </tr>
     <tr>
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cub3de.png"/></a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP00.png"/></a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP01.png"/></a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP02.png"/></a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP03.png"/></a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP04.png"/></a></td>
     </tr>
   </tbody>
 </table>
