@@ -19,17 +19,17 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     </tr>
   </thead>
   <tbody>
-    <!-- Milestone 1 -->
+    <!-- Milestone 0 -->
     <tr>
-      <td style="text-align:center;">Milestone 1</td>
+      <td style="text-align:center;">Milestone 0</td>
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
     </tr>
-    <!-- Milestone 2 -->
+    <!-- Milestone 1 -->
     <tr>
-      <td style="text-align:center;" rowspan="3">Milestone 2</td>
+      <td style="text-align:center;" rowspan="3">Milestone 1</td>
       <td style="text-align:center;">Placeholder</td>
-      <td style="text-align:center;"><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png"/></a></td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td> 
     </tr>
     <tr>
       <td style="text-align:center;">Placeholder</td>
@@ -37,11 +37,11 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     </tr>
     <tr>
       <td style="text-align:center;">Placeholder</td>
-      <td style="text-align:center;"><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/born2beroot"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/born2beroote.png"/></a></td>
     </tr>
-    <!-- Milestone 3 -->
+    <!-- Milestone 2 -->
     <tr>
-      <td style="text-align:center;" rowspan="3">Milestone 3</td>
+      <td style="text-align:center;" rowspan="3">Milestone 2</td>
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/pipex"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/pipexe.png"/></a></td>
     </tr>
@@ -53,9 +53,9 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png"/></a></td>
     </tr>
-    <!-- Milestone 4 -->
+    <!-- Milestone 3 -->
     <tr>
-      <td style="text-align:center;" rowspan="2">Milestone 4</td>
+      <td style="text-align:center;" rowspan="2">Milestone 3</td>
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
     </tr>
@@ -63,9 +63,9 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
     </tr>
-    <!-- Milestone 5 -->
+    <!-- Milestone 4 -->
     <tr>
-      <td style="text-align:center;" rowspan="2">Milestone 5</td>
+      <td style="text-align:center;" rowspan="2">Milestone 4</td>
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/netpracticee.png"/></a></td>
     </tr>
