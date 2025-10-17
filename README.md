@@ -6,7 +6,7 @@ This repository contains an index of all the projects I've completed as part of 
 
 Click on the badges below to access each individual project repository.
 
-You can find me on the 42 intranet under the username **elopez-u**.
+You can find me on the 42 intranet under the username [elopez-u](https://profile-v3.intra.42.fr/users/elopez-u).
 
 ## Common Core
 
