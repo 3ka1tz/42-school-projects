@@ -57,11 +57,11 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     <tr>
       <td style="text-align:center;" rowspan="2">Milestone 3</td>
       <td style="text-align:center;">Placeholder</td>
-      <td style="text-align:center;"><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
     </tr>
     <tr>
       <td style="text-align:center;">Placeholder</td>
-      <td style="text-align:center;"><a href="https://github.com/3ka1tz/philosophers"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/philosopherse.png"/></a></td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
     </tr>
     <!-- Milestone 4 -->
     <tr>
