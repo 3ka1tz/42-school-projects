@@ -53,7 +53,6 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
       <td style="text-align:center;">Placeholder</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/so_long"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/so_longe.png"/></a></td>
     </tr>
-    <tr><td style="text-align:center;" colspan="3"><hr/></td></tr>
     <!-- Milestone 4 -->
     <tr>
       <td style="text-align:center;" rowspan="2">Milestone 4</td>
@@ -68,7 +67,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     <tr>
       <td style="text-align:center;" rowspan="2">Milestone 5</td>
       <td style="text-align:center;">Placeholder</td>
-      <td style="text-align:center;"><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/net_practicee.png"/></a></td>
+      <td style="text-align:center;"><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/netpracticee.png"/></a></td>
     </tr>
     <tr>
       <td style="text-align:center;">Placeholder</td>
