@@ -1,7 +1,5 @@
 # 42 School Projects
 
-Hi there!👋
-
 This repository contains an index of all the projects I've completed as part of the 42 curriculum.
 
 Click on the badges below to access each individual project repository.
