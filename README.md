@@ -10,7 +10,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 
 <table>
   <colgroup>
-    <col style="width: 150px;">
+    <col style="width: 200px;">
   </colgroup>
   <thead>
     <tr>
