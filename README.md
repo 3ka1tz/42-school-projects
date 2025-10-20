@@ -9,11 +9,6 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 ## Common Core
 
 <table>
-  <colgroup>
-    <col style="width: 1000 px;">
-    <col>
-    <col>
-  </colgroup>
   <thead>
     <tr>
       <th>Milestones</th>
