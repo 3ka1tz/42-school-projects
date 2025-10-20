@@ -22,7 +22,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     <!-- Milestone 0 -->
     <tr>
       <td style="text-align:center;">Milestone 0</td>
-      <td style="text-align:center;">Placeholder</td>
+      <td style="text-align:center;">This project involves coding a C library that will include numerous general purpose functions for your programs.</td>
       <td style="text-align:center;"><a href="https://github.com/3ka1tz/libft"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/libfte.png"/></a></td>
     </tr>
     <!-- Milestone 1 -->
