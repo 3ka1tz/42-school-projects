@@ -13,7 +13,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
 <table>
   <thead>
     <tr>
-      <th>Milestones</th>
+      <th style="width:90px;">Milestones</th>
       <th>Description</th>
       <th>Project</th>
     </tr>
