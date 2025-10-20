@@ -1,6 +1,6 @@
 # 42 School Projects
 
-👋 Welcome!
+Hi there!👋
 
 This repository contains an index of all the projects I've completed as part of the 42 curriculum.
 
@@ -62,36 +62,6 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     <tr>
       <td>Placeholder</td>
       <td><a href="https://github.com/3ka1tz/minishell"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/minishelle.png"/></a></td>
-    </tr>
-    <!-- Milestone 4 -->
-    <tr>
-      <td rowspan="7">Milestone 4</td>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/net_practice"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/netpracticee.png"/></a></td>
-    </tr>
-    <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/cub3d"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/cub3de.png"/></a></td>
-    </tr>
-    <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP00.png"/></a></td>
-    </tr>
-    <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP01.png"/></a></td>
-    </tr>
-    <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP02.png"/></a></td>
-    </tr>
-    <tr>
-      <td>Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP03.png"/></a></td>
-    </tr>
-    <tr>
-      <td">Placeholder</td>
-      <td><a href="https://github.com/3ka1tz/#"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/CPP04.png"/></a></td>
     </tr>
   </tbody>
 </table>
