@@ -64,7 +64,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
   </tbody>
 </table>
 
-All badges were downloaded from https://github.com/ayogun/42-project-badges.
+All badges were downloaded from [github.com/ayogun/42-project-badges](https://github.com/ayogun/42-project-badges).
 
 ### Disclaimer
 
