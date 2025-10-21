@@ -26,7 +26,7 @@ You can find me on the 42 intranet under the username [elopez-u](https://profile
     <!-- Milestone 1 -->
     <tr>
       <td rowspan="3">Milestone 1</td>
-      <td>Placeholder</td>
+      <td>Program a function that returns a line read from a file descriptor.</td>
       <td><a href="https://github.com/3ka1tz/get_next_line"><img src="https://raw.githubusercontent.com/3ka1tz/42-school-projects/main/images/badges/get_next_linee.png"/></a></td> 
     </tr>
     <tr>
